@@ -1,5 +1,5 @@
 # Listening-to-Chaotic-Whispers-Article-Implementation
-Training a GAN on scrapped Wall Street Journal Articles to make sotck market movement predictions
+Training a GAN on scrapped Wall Street Journal Articles to make stock market movement predictions.
 
 See project report for more details:
 
